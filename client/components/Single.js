@@ -1,14 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Single extends Component{
-	render() {
-		return (
-			<div className="single-photo">
-				<p>I am the Single</p>
-			</div>
-
-		)
-	}
-};
+const Single = React.createClass({
+  render() {
+    return (
+      <div className="single-photo">
+      Im the single
+      </div>
+    )
+  }
+});
 
 export default Single;
