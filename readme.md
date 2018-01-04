@@ -15,4 +15,4 @@ Run `npm build` to create a distro folder and a bundle.js file.
 
 ## Demo
 
-![Demo](https://user-images.githubusercontent.com/26763021/34567912-0608b0a0-f15c-11e7-9bf8-06e591db5d4f.gif)
+![Demo](https://user-images.githubusercontent.com/26763021/34572137-7ff1bf40-f168-11e7-9740-92385490fb0d.gif)
